@@ -2,5 +2,5 @@
 
 Hi! My name is Vlad. I'm a PHP Full-Stack developer with 10+ years of experience.
 
-![My blog on Medium](https://medium.com/@vlreshet)
-![My LinkedIn](https://www.linkedin.com/in/vlad-reshetilo/)
+[My blog on Medium](https://medium.com/@vlreshet)
+[My LinkedIn](https://www.linkedin.com/in/vlad-reshetilo/)
